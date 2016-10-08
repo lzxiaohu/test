@@ -1,1 +1,0 @@
-This file is used to test the command of git: remove.
